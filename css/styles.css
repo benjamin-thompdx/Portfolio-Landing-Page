@@ -1,13 +1,20 @@
-img.headshot {
-  float: right;
-}
-
 .typography {
   font-family: 'Times New Roman', Times, serif;
   color: midnightblue;
 }
 
-.title {background-color: white;
+img.headshot {
+  float: right;
+}
+
+.border {
+  margin: 12px;
+  border: 2px solid midnightblue;
+  padding: 4px;
+  background-color: rgba(218, 211, 200, 0.76);
+}
+
+.title {
   text-align: center;
   width: 800px;
   margin: 0 auto;
