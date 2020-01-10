@@ -1,0 +1,10 @@
+.typography {
+  font-family: 'Times New Roman', Times, serif;
+  color: midnightblue;
+}
+
+.title {background-color: white;
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+}
