@@ -1,3 +1,7 @@
+img.headshot {
+  float: right;
+}
+
 .typography {
   font-family: 'Times New Roman', Times, serif;
   color: midnightblue;
