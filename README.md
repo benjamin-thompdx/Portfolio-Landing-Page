@@ -13,7 +13,7 @@ _This webpage shows a working knowledge of Git, GitHub, HTML, Markdown, CSS, and
 1. _Clone this repository._
 2. _Navigate to repository in terminal._
 3. _Run $ git log to review commits._
-4. _Copy and paste the folling url () into your web browser to view Benjamin Thom's Portfolio Landing Page._ 
+4. _Copy and paste the folling url (https://benjamin-thompdx.github.io/Portfolio-Landing-Page/) into your web browser to view Benjamin Thom's Portfolio Landing Page._ 
 
 ## Technologies Used
 
